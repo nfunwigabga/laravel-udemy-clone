@@ -80,7 +80,7 @@
         "mmenu-js": "^8.3.0",
         "moment": "^2.24.0",
         "nestable2": "^1.6.0",
-        "prismjs": "^1.17.1",
+        "prismjs": "^1.23.0",
         "select2": "^4.0.8",
         "typeahead.js": "^0.11.1",
         "v-file-upload": "^3.1.7",
